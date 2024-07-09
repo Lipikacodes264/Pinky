@@ -16,9 +16,7 @@ The app is built using MERN stack, the flow of control can be described from the
 
 ![](https://github.com/iamdeepti/pink-diary/blob/master/pink-diary-flowchart.png)
 
-### Demo
 
-![](https://github.com/iamdeepti/pink-diary/blob/master/demo.gif)
 
 ### Installation 
 Clone/ Download the repo and then run the following commands 
